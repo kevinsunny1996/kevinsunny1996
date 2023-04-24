@@ -12,6 +12,7 @@
   - [Twitter](https://twitter.com/soulpianist96)
   - [Kaggle](https://www.kaggle.com/kevinsunny1996)
   - [Stackoverflow](https://stackoverflow.com/users/9317980/soulpianist96)
+  - [Medium](https://kevinsunny1996.medium.com)
 - ⚡ Fun fact: I'm also upskilling myself in piano 🎹, loves to listen to podcasts 📼, and dipping my feet into opensource 👨‍💻 and loves taking risks 💪.
 
   
