@@ -21,5 +21,7 @@
 ### Articles published on Medium.com
 
 - [How to get over tutorial purgatory when self-studying data science](https://medium.com/@kevinsunny1996/how-to-get-over-tutorial-purgatory-when-self-studying-data-science-2351cc37190a?source=your_stories_page-------------------------------------)
+  
 - [From Idea 💡 to Implementation 💻 : A Step-by-Step Guide to Starting Your Data Science Side Project](https://medium.com/@kevinsunny1996/from-idea-to-implementation-a-step-by-step-guide-to-starting-your-data-science-side-project-fe2891120023?source=your_stories_page-------------------------------------)
+  
 - [Journey to Data Science Mastery: Building a Spotify-powered Project on GCP](https://medium.com/@kevinsunny1996/unlocking-the-power-of-workload-identity-and-terraform-for-seamless-infrastructure-setup-on-gcp-ed9363dd751b?source=your_stories_page-------------------------------------)
